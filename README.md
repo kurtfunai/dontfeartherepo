@@ -1,3 +1,3 @@
 # Don't Fear the Repo
 
-Needs more cowbell.
+Backbone.js application to compare developers contributions for a given Github Repo
